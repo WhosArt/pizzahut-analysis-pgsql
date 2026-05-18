@@ -66,7 +66,7 @@
 
 ### ER-диаграмма базы данных
 
-![Entity Relationship Diagram](docs/pizzahut_da.png)
+![Entity Relationship Diagram](docs/pizzahut_da.svg)
 
 > Схема отношений между таблицами `orders`, `order_details`, `pizzas` и `pizza_types`.
 
