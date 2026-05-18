@@ -64,6 +64,14 @@
 | `ingredients` | `VARCHAR` | | Список ингредиентов через запятую (хранится как строка) |
 ---
 
+### ER-диаграмма базы данных
+
+![Entity Relationship Diagram](docs/pizzahut_da.png)
+
+> Схема отношений между таблицами `orders`, `order_details`, `pizzas` и `pizza_types`.
+
+[Открыть интерактивную версию в dbdiagram.io](https://dbdiagram.io/d/pizzahut_da-6a0b01859f1f8ec47b3f7f61)
+
 
 ## 📊 Цели анализа
 
